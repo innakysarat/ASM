@@ -1,2 +1,7 @@
-# Проекты на ассемблере и С++
-В данном репоизитории находится 2 программы на ассемблере (ветка main и микропроект-1) и два проекта на c++ (многопоточные приложения - ветки микропроект-2 и task3)
+# Assembly and C++ Projects
+This repository includes two Assembly programs and two multithreaded applications in C++.
+
+* Branch: main: Contains the first Assembly program.
+* Branch: microproject-1: Contains the second Assembly program.
+* Branch: microproject-2: Contains a multithreaded application implemented in C++.
+* Branch: task3: Contains another multithreaded application in C++.
